@@ -67,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/abhishek-shukla7/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhishek-shukla7/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhishek-shukla7/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
