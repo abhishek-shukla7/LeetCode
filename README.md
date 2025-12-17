@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abhishek-shukla7/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/abhishek-shukla7/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek-shukla7/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhishek-shukla7/LeetCode/tree/master/0013-roman-to-integer) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/abhishek-shukla7/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/abhishek-shukla7/LeetCode/tree/master/0018-4sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/abhishek-shukla7/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Database
 |  |
 | ------- |
