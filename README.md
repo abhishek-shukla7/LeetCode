@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhishek-shukla7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/abhishek-shukla7/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/abhishek-shukla7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/abhishek-shukla7/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/abhishek-shukla7/LeetCode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/abhishek-shukla7/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhishek-shukla7/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhishek-shukla7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/abhishek-shukla7/LeetCode/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhishek-shukla7/LeetCode/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/abhishek-shukla7/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
