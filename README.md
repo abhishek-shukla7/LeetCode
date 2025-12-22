@@ -79,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhishek-shukla7/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/abhishek-shukla7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhishek-shukla7/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/abhishek-shukla7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Simulation
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0948-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhishek-shukla7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
