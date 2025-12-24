@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abhishek-shukla7/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishek-shukla7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-shukla7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishek-shukla7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/abhishek-shukla7/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/abhishek-shukla7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-shukla7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/abhishek-shukla7/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/abhishek-shukla7/LeetCode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhishek-shukla7/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-shukla7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
