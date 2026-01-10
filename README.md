@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abhishek-shukla7/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0189-rotate-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0189-rotate-array) |
 | [0948-sort-an-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhishek-shukla7/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishek-shukla7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-shukla7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhishek-shukla7/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhishek-shukla7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/abhishek-shukla7/LeetCode/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
