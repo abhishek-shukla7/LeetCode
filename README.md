@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abhishek-shukla7/LeetCode/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhishek-shukla7/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-shukla7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abhishek-shukla7/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
