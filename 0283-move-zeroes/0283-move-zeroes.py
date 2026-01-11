@@ -6,18 +6,15 @@ class Solution(object):
         """
         
         n=len(nums)
-        temp=[]
+        pos=0
+
 
         for i in range(0,n):
             if nums[i]!=0:
-                temp.append(nums[i])
+                nums[pos]=nums[i]
+                pos+=1
 
-        nz=len(temp)
-
-        for i in range(0,nz):
-            nums[i]=temp[i]
-
-        for i in range(nz,n):
+        for i in range(pos,n):
             nums[i]=0
 
 
