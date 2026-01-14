@@ -5,8 +5,15 @@ class Solution(object):
         :rtype: int
         """
         n=len(nums)
+        dict={}
+
         for i in range(0,n+1):
-            if i not in nums:
-                return i
-                break
+            dict[i]=0
+
+        for nu in nums:
+            dict[nu]=1
+
+        for k,u in dict.items():
+            if u==0:
+                return k
         
