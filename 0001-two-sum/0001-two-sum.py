@@ -6,8 +6,13 @@ class Solution(object):
         :rtype: List[int]
         """
         n=len(nums)
-        for i in range(0,n):
-            for j in range(i+1,n):
+        i=0
+        while i<n:
+            j=i+1
+            while j<n:
                 if nums[i]+nums[j]==target:
                     return i,j
-                    
+                j+=1
+
+            i+=1
+
