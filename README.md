@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhishek-shukla7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhishek-shukla7/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/abhishek-shukla7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-shukla7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhishek-shukla7/LeetCode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/abhishek-shukla7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abhishek-shukla7/LeetCode/tree/master/0043-multiply-strings) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/abhishek-shukla7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
