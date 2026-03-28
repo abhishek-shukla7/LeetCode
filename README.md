@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-shukla7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishek-shukla7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/abhishek-shukla7/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/abhishek-shukla7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abhishek-shukla7/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek-shukla7/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhishek-shukla7/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishek-shukla7/LeetCode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abhishek-shukla7/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
