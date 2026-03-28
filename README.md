@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/abhishek-shukla7/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/abhishek-shukla7/LeetCode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/abhishek-shukla7/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abhishek-shukla7/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Stack
 |  |
 | ------- |
